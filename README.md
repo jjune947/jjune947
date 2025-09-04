@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 안녕하세요, 이애본입니다!
+# 👋 안녕하세요, 최현준입니다!
 
-<p>한신대학교에 재학 중인 이애본입니다. 이곳은 저의 열정과 기술이 담긴 공간입니다.</p>
+<p>한신대학교 자율전공학부에 재학 중인 최현준입니다. 이곳은 저의 열정과 기술이 담긴 공간입니다.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lee%20Aebon&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Choi%20Hyunjun&fontSize=90" />
 
 </div>
 
