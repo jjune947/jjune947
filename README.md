@@ -1,4 +1,5 @@
-## Hi there >>>>>>>
+## Hi there 
+한신대학교 자율전공학부 202580077 최현준
 
 <!--
 **jjune947/jjune947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
