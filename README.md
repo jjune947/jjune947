@@ -55,7 +55,8 @@
 ### 🌟 MBTI
 
 <div align="center">
-INTP 객관적인 분석가, 논리학자
+  <img src="https://img.shields.io/badge/MBTI-INTP-blue" alt="INTP">
+  <p><em>객관적인 분석가, 논리학자</em></p>
 </div>
 
 ---
