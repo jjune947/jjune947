@@ -59,7 +59,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/MBTI-INTP-blue" alt="INTP">
-  <p><em style="font-size: 1.2em;">객관적인 분석가, 논리학자</em></p>
+  <p><em style="font-size: 1.5em;">객관적인 분석가, 논리학자</em></p>
 </div>
 
 ---
@@ -67,9 +67,9 @@
 ### 🎮 취미
 
 <div align="center">
-🎵 음악 듣기 : 힙합 🎤<br>
-🎮 게임하기
-</div>
+    <span style="font-size: 1.2em;">🎵 음악 듣기 : 힙합 🎤</span><br>
+    <span style="font-size: 1.2em;">🎮 게임하기</span>
+    </div>
 
 ---
 
