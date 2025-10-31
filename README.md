@@ -59,7 +59,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/MBTI-INTP-blue" alt="INTP">
-  <p><em style="font-size: 1.5em;">객관적인 분석가, 논리학자</em></p>
+  <p><em style="font-size: 2.0em;">객관적인 분석가, 논리학자</em></p>
 </div>
 
 ---
