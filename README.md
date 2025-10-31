@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<a href="mailto:hchoe293@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:hchoe293@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a> hchoe2931@gmail.com
 <a href="https://github.com/jjune947"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <!-- <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-20c997?style=for-the-badge&logo=blogger&logoColor=white"></a> -->
 
