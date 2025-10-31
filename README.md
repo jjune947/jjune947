@@ -53,7 +53,7 @@
 
 <div align="center">
 
-| Type    | Contact                                                                                                                                                           |
+| 종류    | 연락처                                                                                                                                                           |
 | :------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Email   | <a href="mailto:hchoe293@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="mailto:hchoe2931@gmail.com">hchoe2931@gmail.com</a> |
 | GitHub  | <a href="https://github.com/jjune947"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>                      |
