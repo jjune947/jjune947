@@ -74,7 +74,7 @@
 
 <div align="center">
     <span style="font-size: 1.2em;">🎵 음악 듣기 : 힙합 🎤</span><br>
-    <span style="font-size: 1.2em;">🎮 게임하기 : 원신</span>
+    <span style="font-size: 1.2em;">🎮 게임하기 : 원신, 롤</span>
     </div>
 
 ---
