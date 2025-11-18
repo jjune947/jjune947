@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요, 최현준입니다!
 
-<p>자랑스러운 한신대학교 자율전공학부에 재학 중인 현쮼이입니다. 이곳은 저의 열정과 기술이 담긴 공간입니당.</p>
+<p>자랑스러운 한신대학교 자율전공학부에 재학 중인 현준이입니다. 이곳은 저의 열정과 기술이 담긴 공간입니당.</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Choi%20Hyunjun&fontSize=90" />
 
