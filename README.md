@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ 기술 스택 (Skills)
+### 🛠️ 기술 (Skills)
 
 <div align="center">
 
